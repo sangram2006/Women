@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">WomenCatchFashion</string>
+    <string name="filter">Filter</string>
+
+    <string-array name="size">
+        <item>ALL</item>
+        <item>S</item>
+        <item>L</item>
+        <item>XL</item>
+        <item>XXL</item>
+        <item>XXXL</item>
+    </string-array>
+</resources>

@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "691850874867",
+    "firebase_url": "https://womencatchfashion.firebaseio.com",
+    "project_id": "womencatchfashion",
+    "storage_bucket": "womencatchfashion.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691850874867:android:a0d4cf93562f45a4",
+        "android_client_info": {
+          "package_name": "com.wcf.sangrmoh.womencatchfashion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "691850874867-mk8rgiqepc4tv5ns6aehp2266dsqmiv0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wcf.sangrmoh.womencatchfashion",
+            "certificate_hash": "e59734820495876258684ef8dbe4f08743ad3f3c"
+          }
+        },
+        {
+          "client_id": "691850874867-29j0s5aohut9lgb5m3bbrblvthnou4lo.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "691850874867-29j0s5aohut9lgb5m3bbrblvthnou4lo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHsWSOyJsdmgXvWY0pp6-r63coIlObnHM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "691850874867-29j0s5aohut9lgb5m3bbrblvthnou4lo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
